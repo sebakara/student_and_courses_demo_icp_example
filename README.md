@@ -12,7 +12,7 @@ Assign Courses to Students: Users can assign courses to specific students by sel
 View Assigned Courses for a Student: After assigning courses to a student, users can view the courses assigned to that student. The application fetches and displays this information dynamically, allowing users to see the courses associated with each student.
 Key Functions We Will Utilize:
 
-#1. App Component
+# 1. App Component
 
 This is a React functional component that represents the main application.
 It sets up state variables for managing user authentication, student and course data, forms for adding new students and courses, and selected student and course IDs for assigning courses.
